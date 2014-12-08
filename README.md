@@ -8,3 +8,5 @@ Game mechanics:
 The arrow keys are to move around while the space bar is used to attack an enemy.
 The goal is to reach the Triforce at the end.
 Have fun!
+
+NOTE: Can only be opened with Windows.
